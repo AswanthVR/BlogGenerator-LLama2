@@ -1,6 +1,9 @@
 # BlogGenerator-LLama2
 A Streamlit application that generates engaging and informative blogs using the LLama 2 model. Users can input a blog topic, specify the desired word count, and choose a blog style (Formal, Informal, Technical). The app leverages the power of CTransformers and the LLama 2 model to create well-structured and detailed blog posts, covering various aspects of the chosen topic. This project demonstrates the practical application of language models in content creation.
 
+ ![Screenshot of BlogGenerator-LLama2 App](/screenshot.png)
+
+ 
 ## Features
 - User-friendly interface built with Streamlit
 - Customizable blog generation with different styles
@@ -18,4 +21,5 @@ A Streamlit application that generates engaging and informative blogs using the 
 - [CTransformers](https://github.com/Glassbox-Technologies/CTransformers)
 - [LLama 2 model](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main)
 - langchain-community
- 
+
+
