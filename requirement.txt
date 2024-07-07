@@ -1,7 +1,4 @@
-sentence-transformers
-uvicorn
-ctransformers
-langchain
-langchain-community
-python-box
-streamlit
+streamlit==1.36.0
+langchain==0.0.151   
+langchain_community==0.0.3   
+CTransformers==0.2.8 
